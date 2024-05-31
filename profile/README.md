@@ -41,34 +41,36 @@
 </div>
 
 # About Us
-Code4Life là một “tổ chức”, nhóm học tập, đam mê nghiên cứu các lý thuyết, công nghệ trong lĩnh vực công nghệ thông tin. Tổ chức bao gồm 4 thành viên đều cùng là sinh viên đại học năm cuối (tính vào thời điểm 2024), và đều đã có một số dự án cùng với nhau.
+Code4Life là một “tổ chức”, nhóm học tập, đam mê nghiên cứu các lý thuyết, công nghệ trong lĩnh vực công nghệ thông tin. __C4L__ bao gồm 4 thành viên đều cùng là sinh viên đại học năm cuối (tính vào thời điểm 2024), và đều đã có một số dự án cùng với nhau.
 
-Là một nhóm các bạn sinh viên năm cuối có ý định nghiên cứu các lý thuyết và định hướng phát triển ở một số mảng trong lĩnh vực IT. Với mong muốn các dự án, nghiên cứu có thể góp phần vào phát triển được cộng đồng devopler ở Việt Nam nói riêng và trên thế giới nói chung. Ngoài ra Code4Life còn có định hướng để phát triển các thư viện, tools, plugins được dùng trong các dự án cá nhân, dự án nhóm và trên hết là đặt hết tâm huyết để cống hiến cho cộng đồng.
+Là một nhóm các bạn sinh viên năm cuối có ý định nghiên cứu các lý thuyết và định hướng phát triển ở một số mảng trong lĩnh vực IT. Với mong muốn các dự án, nghiên cứu có thể góp phần vào phát triển được cộng đồng devopler ở Việt Nam nói riêng và trên thế giới nói chung. Ngoài ra __C4L__ còn có định hướng để phát triển các thư viện, tools, plugins được dùng trong các dự án cá nhân, dự án nhóm và trên hết là đặt hết tâm huyết để cống hiến cho cộng đồng.
 
-Là nơi mà các thành viên có thể lưu trữ được những tinh túy, kinh nghiệm, kiến thức của bản thân và chia sẻ nó với các thành viên khác, thông qua các buổi thảo luận, hay một số bài viết. Nhằm nhìn lại những gì mà chính các thành viên trong nhóm đã học được, tích lũy được. Đồng thời tạo nên một “thư viện” nhỏ giúp những người học mới có cái nhìn gần gũi hơn với ngành.
+Là nơi mà các thành viên có thể lưu trữ được những tinh túy (:v), kinh nghiệm, kiến thức của bản thân và chia sẻ nó với các thành viên khác, thông qua các buổi thảo luận, hay một số bài viết. Nhằm nhìn lại những gì mà chính các thành viên trong nhóm đã học được, tích lũy được. Đồng thời tạo nên một “thư viện” nhỏ giúp những người học mới có cái nhìn gần gũi hơn với ngành.
 
 Tại sao tụi mình lại lấy tên là __Code For Life (Code4Life)__? Bởi vì tụi mình xác định lập trình là công việc, là đam mê mà tụi mình sẽ và luôn theo đuổi.
 
 # Vision
 Như đã nói ở trên thì tụi mình mong muốn là đóng góp một phần nào đó cho cộng đồng Developer ở Việt Nam nói riêng và cũng như là cộng đồng Developer ở thế giới nói chung. Nên tụi mình có một số định hướng phát triển như sau:
-  -	__Về nghiên cứu, tìm hiểu__: mỗi người trong nhóm tụi mình đều có một vai trò khác nhau và mỗi người sẽ có một hướng đi khác nhau, nhưng chung quy là vẫn tụ họp lại với nhau để chia sẻ và cũng như là truyền đạt một số kinh nghiệm, kiến thức, góc nhìn và trải nghiệm.
-  -	__Về phương thức vận hành__: C4L không đặt nặng là phải hoạt động như một tổ chức lập trình lớn hay là một nhóm nghiên cứu khoa học hay là một nhóm làm việc tự do. Mà tụi mình sẽ đặt sự tự do của mỗi thành viên lên trên hết, được hoạt động, chia sẻ mọi thứ liên quan tới lĩnh vực công nghệ thông tin. Nhưng vẫn sẽ có một số hoạt động chung. Từ đó sẽ sinh ra được 2 tính chất hoạt động:
+  -	__Về nghiên cứu, tìm hiểu__: mỗi người trong __C4L__ đều có một vai trò khác nhau và mỗi người sẽ có một hướng đi khác nhau, nhưng chung quy là vẫn tụ họp lại với nhau để chia sẻ và cũng như là truyền đạt một số kinh nghiệm, kiến thức, góc nhìn và trải nghiệm.
+  -	__Về phương thức vận hành__: __C4L__ không đặt nặng là phải hoạt động như một tổ chức lập trình lớn hay là một nhóm nghiên cứu khoa học hay là một nhóm làm việc tự do. Mà tụi mình sẽ đặt sự tự do của mỗi thành viên lên trên hết, được hoạt động, chia sẻ mọi thứ liên quan tới lĩnh vực công nghệ thông tin. Nhưng vẫn sẽ có một số hoạt động chung. Từ đó sẽ sinh ra được 2 tính chất hoạt động:
     o	__Hoạt động cá nhân__: thì mỗi thành viên sẽ có các các bài viết, chia sẻ được lưu trữ. Hoạt động này nó liên quan tới phần gạch đầu dòng đầu tiên.
     o	__Hoạt động chung__: thì có thể là toàn bộ nhóm hoặc ít nhất là 2 thành viên làm việc trong một hoặc nhiều dự án nào đó.
-  -	__Về quy mô__: với định hướng của tụi mình và phương thức vận hành, thì C4L sẽ không mở rộng trong tương lai gần và chỉ bao gồm 4 thành viên. Tuy nhiên, khi thời gian vượt qua cái “tương lai gần” kia thì C4L có thể được mở rộng thêm nhiều thành viên lên nữa.
-  -	__Về sản phẩm__: với hai kiểu hoạt động trên thì C4L sẽ có một số kiểu sản phẩm như là: bài viết, dự án học tập, ứng dụng, tools, plugins, templates, … Đúng vậy, tụi mình có định hướng là trong tương lai sẽ có làm một số tools, plugins và templates (mã nguồn) và tất cả đều “free-to-use”.
-  -	Về __công nghệ__: hiện tại thì nhóm đang chú trọng tới Website Development, Server Development (APIs là chủ yếu) và trong tương lai sẽ mở rộng ra thêm nhiều công nghệ khác như là Desktop Development, Tools & Plugins Development, …
-  -	Về __vai trò__: nhóm không có định hướng trở thành một “thầy/cô” cho bất kì cá nhân nào đang theo đuổi lĩnh vực công nghệ thông tin, mà là một “người gợi ý” để gợi ý các ý tưởng cho các cá nhân đó. Ngoài ra thì tụi mình sẽ góp phần, không nhiều thì ít, vào trong cộng động thông qua các sản phẩm mà tụi mình đã nói ở trên.
+  -	__Về quy mô__: với định hướng của __C4L__ và phương thức vận hành, thì __C4L__ sẽ không mở rộng trong tương lai gần và chỉ bao gồm 4 thành viên. Tuy nhiên, khi thời gian vượt qua cái “tương lai gần” kia thì __C4L__ có thể được mở rộng thêm nhiều thành viên lên nữa.
+  -	__Về sản phẩm__: với hai kiểu hoạt động trên thì __C4L__ sẽ có một số kiểu sản phẩm như là: bài viết, dự án học tập, ứng dụng, tools, plugins, templates, … Đúng vậy, __C4L__ có định hướng là trong tương lai sẽ có làm một số tools, plugins và templates (mã nguồn) và tất cả đều “free-to-use”.
+  -	Về __công nghệ__: hiện tại thì __C4L__ đang chú trọng tới Website Development, Server Development (APIs là chủ yếu) và trong tương lai sẽ mở rộng ra thêm nhiều công nghệ khác như là Desktop Development, Tools & Plugins Development, …
+  -	Về __vai trò__: __C4L__ không có định hướng trở thành một “thầy/cô” cho bất kì cá nhân nào đang theo đuổi lĩnh vực công nghệ thông tin, mà là một “người gợi ý” để gợi ý các ý tưởng cho các cá nhân đó. Ngoài ra thì __C4L__ sẽ góp phần, không nhiều thì ít, vào trong cộng động thông qua các sản phẩm đã được đề cập ở trên.
 
 # Brand
-Thương hiệu của Code4Life được thiết kế đơn giản, hiện đại và mang hướng __công nghệ__. Một trong số những yếu tố cơ bản như là màu sắc, phong cách và kiểu chữ đã được tinh lọc và xem xét trước:
+Thương hiệu của __C4L__ được thiết kế đơn giản, hiện đại và mang hướng __công nghệ__. Một trong số những yếu tố cơ bản như là màu sắc, phong cách và kiểu chữ đã được tinh lọc và xem xét trước:
   - __Màu sắc__: __C4L__ kết hợp giữa 2 màu __xanh lá__ và __màu xanh dương__.
   - __Phong cách__: __C4L__ mang phong cách hiện đại, tối giản.
   - __Kiểu chữ__: __C4L__ chọn kiểu chữ hiện đại, đơn giản, dễ nhìn.
 
-Các bạn có thể xem Brand Showcase của C4L ở đây: [https://www.behance.net/gallery/199553239/C4Ls-Logo](https://www.behance.net/gallery/199553239/C4Ls-Logo)
+Các bạn có thể xem Brand Showcase của __C4L__ ở đây: [https://www.behance.net/gallery/199553239/C4Ls-Logo](https://www.behance.net/gallery/199553239/C4Ls-Logo)
 
 # Conclusion
-C4L là một nhóm nghiên cứu, tìm hiểu, học tập, lập trình và chia sẻ về các công nghệ, lý thuyết và kinh nghiệm trong ngành lập trình. Tự do và bay bổng trong chủ đề nhưng đồng thời phải liên quan tới lĩnh vực chính. Phần câu chuyện và thông tin xin được kết thúc tại đây.
+__C4L__ là một nhóm nghiên cứu, tìm hiểu, học tập, lập trình và chia sẻ về các công nghệ, lý thuyết và kinh nghiệm trong ngành lập trình. Tự do và bay bổng trong chủ đề nhưng đồng thời phải liên quan tới lĩnh vực chính. Phần giới thiệu xin được kết thúc tại đây.
 
-Peace
+Faithfully,
+
+__C4L__
