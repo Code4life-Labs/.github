@@ -32,11 +32,15 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Express logo" title="Express" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Docker-1d63ed?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" /></span>
+  &nbsp;
 </div>
 <div align="center">
   <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server logo" title="MS SQL Server" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/MySQL-00618a?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></span>
   &nbsp;
 </div>
 
